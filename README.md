@@ -1,2 +1,2 @@
 # nextjs
- nedxtjs workarounds
+ nextjs workarounds
